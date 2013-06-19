@@ -1,0 +1,15 @@
+127.0.0.1 -  -  [18/6월/2013:14:32:07 +0000] "PUT /subscription/gpbundle/1234 HTTP/1.1" 404 0  14
+127.0.0.1 -  -  [18/6월/2013:14:37:22 +0000] "PUT /subscription/gpbundle/1234 HTTP/1.1" 415 0  13
+127.0.0.1 -  -  [18/6월/2013:14:37:39 +0000] "PUT /subscription/gpbundle/1234 HTTP/1.1" 200 20  32
+127.0.0.1 -  -  [18/6월/2013:14:37:49 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 40  4
+127.0.0.1 -  -  [18/6월/2013:14:40:10 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 43  39
+127.0.0.1 -  -  [18/6월/2013:14:40:11 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 44  4
+127.0.0.1 -  -  [18/6월/2013:14:40:12 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 43  3
+127.0.0.1 -  -  [18/6월/2013:14:40:13 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 43  4
+127.0.0.1 -  -  [18/6월/2013:14:40:13 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 43  4
+127.0.0.1 -  -  [18/6월/2013:14:40:14 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 42  6
+127.0.0.1 -  -  [18/6월/2013:14:40:14 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 42  3
+127.0.0.1 -  -  [18/6월/2013:14:40:15 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 42  3
+127.0.0.1 -  -  [18/6월/2013:14:40:16 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 43  3
+127.0.0.1 -  -  [18/6월/2013:14:40:17 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 43  3
+127.0.0.1 -  -  [18/6월/2013:14:40:17 +0000] "POST /subscription/gpbundle/1234/payment HTTP/1.1" 200 43  5
